@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'IRANSansWeb';
+  src: url('./Assets/fonts/IRANSansWeb.ttf')
+}
+
+*{
+  font-size: 12px ;
+  min-width: 30px !important;
+}
+
+body {
+direction: rtl;
+}
+
+/* code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+} */
+
+/* legend {
+  float: unset !important;
+  text-align: right !important;
+}
+
+label{
+  text-align: right !important;
+  transform-origin: top right !important;
+  width:calc(100% - 1.8rem) !important;
+} */
